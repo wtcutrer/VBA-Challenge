@@ -1,7 +1,7 @@
 # VBA-Challenge
 Homework 1.2_ VBA Challenge_Cutrer
 
-In this Assignment, a VBA script was created in order to analyze stock market data that was provided. Instructions for this assignment are provided below. 
+In this Assignment, a VBA script was created in order to analyze stock market data that was provided. Provided are four files which include snapshots from the years 2014, 2015, and 2016 as well as the code used to run the program. Instructions for this assignment are provided below. 
 
 Instructions for this Assignment
 
